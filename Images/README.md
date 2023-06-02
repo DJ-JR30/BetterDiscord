@@ -1,7 +1,7 @@
 # Images
 
 AI Generated | Moon_Mountain.jpg
-![0](Moon_Mountain__Big.jpg)
+![0](Moon_Mountain.jpg)
 
 AI Generated | Moon_Mountain__Big.jpg
 ![1](Moon_Mountain__Big.jpg)
